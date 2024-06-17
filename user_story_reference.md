@@ -103,5 +103,3 @@ As a Data Analyst, I want to create detailed reports and visualizations so that 
 3. Write a narrative to accompany the visualizations, explaining key findings.
 4. Compile the visualizations and narrative into a comprehensive report.
 5. Present the report to stakeholders and gather feedback for improvements.
-
-By breaking down the Data Analyst role into these epics, user stories, and tasks, it provides a structured approach to managing the data analysis process from collection to visualization.
